@@ -1,0 +1,7 @@
+D:\Users\conrado.sasaud\source\repos\CorrecaoAtividade03e04SegQuar\CorrecaoAtividade03e04SegQuar\bin\Debug\CorrecaoAtividade03e04SegQuar.exe.config
+D:\Users\conrado.sasaud\source\repos\CorrecaoAtividade03e04SegQuar\CorrecaoAtividade03e04SegQuar\bin\Debug\CorrecaoAtividade03e04SegQuar.exe
+D:\Users\conrado.sasaud\source\repos\CorrecaoAtividade03e04SegQuar\CorrecaoAtividade03e04SegQuar\bin\Debug\CorrecaoAtividade03e04SegQuar.pdb
+D:\Users\conrado.sasaud\source\repos\CorrecaoAtividade03e04SegQuar\CorrecaoAtividade03e04SegQuar\obj\Debug\CorrecaoAtividade03e04SegQuar.csproj.AssemblyReference.cache
+D:\Users\conrado.sasaud\source\repos\CorrecaoAtividade03e04SegQuar\CorrecaoAtividade03e04SegQuar\obj\Debug\CorrecaoAtividade03e04SegQuar.csproj.CoreCompileInputs.cache
+D:\Users\conrado.sasaud\source\repos\CorrecaoAtividade03e04SegQuar\CorrecaoAtividade03e04SegQuar\obj\Debug\CorrecaoAtividade03e04SegQuar.exe
+D:\Users\conrado.sasaud\source\repos\CorrecaoAtividade03e04SegQuar\CorrecaoAtividade03e04SegQuar\obj\Debug\CorrecaoAtividade03e04SegQuar.pdb
